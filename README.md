@@ -1,31 +1,37 @@
-# ProfileCover
-![latest version](https://img.shields.io/github/release/SychO9/flarum-profile-cover.svg?style=flat-square)
-![flarum version](https://img.shields.io/badge/flarum-%5E0.1.0--beta.10-%23e7742e?style=flat-square)
-![mit license](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square&color=green)
-![downloads](https://img.shields.io/packagist/dt/sycho/flarum-profile-cover?color=%23f28d1a&style=flat-square)
+# Nex
 
-A [Flarum](http://flarum.org/) extension. Adds the ability to upload a cover image to a user profile.
+全方位的『超』自由論壇
+> 為壓力大想找人抒發，或者心中有小宇宙想找人分享的您
+>
+> 提供最棒的多元交流平台
 
-<p align=center>
-<img alt="flarum_public_admin" src="https://user-images.githubusercontent.com/20267363/66506033-d63c1300-eacc-11e9-8b8e-016d9963fb93.png" /> <img alt="flarum_public_u_SychO" src="https://user-images.githubusercontent.com/20267363/66506036-d6d4a980-eacc-11e9-8bcf-5f46962919cd.png"/><img alt="flarum_public_u_SychO (1)" src="https://user-images.githubusercontent.com/20267363/66506035-d6d4a980-eacc-11e9-8c19-c705d24ae109.png"/><img alt="flarum_public_u_SychO (2)" src="https://user-images.githubusercontent.com/20267363/66506034-d63c1300-eacc-11e9-86a7-6918821c8823.png"/>
-</p>
+![logo](nex.png)
 
-## Installation
-Using composer:
-```gitattributes
-$ composer require sycho/flarum-profile-cover
-```
+## 個人檔案封面
 
-## Updating
-Using composer:
-```gitattributes
-$ composer update sycho/flarum-profile-cover
-```
+以 [MIT License](LICENSE) 發行程式原始碼
 
-## Links
-* [GitHub](https://github.com/SychO9/flarum-profile-cover)
-* [Packagist](https://packagist.org/packages/sycho/flarum-profile-cover)
-* [Flagrow](https://flagrow.io/extensions/sycho/flarum-profile-cover)
+    The MIT License (MIT)
+    
+    Copyright (c) 2021 Star Inc. (https://starinc.xyz)
+    Copyright (c) Sami "SychO" Mazouz
+    
+    Permission is hereby granted, free of charge, to any person obtaining a copy
+    of this software and associated documentation files (the "Software"), to deal
+    in the Software without restriction, including without limitation the rights
+    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+    copies of the Software, and to permit persons to whom the Software is
+    furnished to do so, subject to the following conditions:
+    
+    The above copyright notice and this permission notice shall be included in all
+    copies or substantial portions of the Software.
+    
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+    SOFTWARE.
 
-## License
-This software is released under the MIT License. A full copy of this license is included in the package file.
+> (c) 2021 [Star Inc.](https://starinc.xyz)

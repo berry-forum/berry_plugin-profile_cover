@@ -33,7 +33,7 @@ class CoverValidator extends AbstractValidator
         return [
             'cover' => [
                 'required',
-                'mimes:jpeg,png,bmp',
+                'mimes:jpeg,jpg,png,bmp',
                 'max:' . $this->getMaxSize()
             ]
         ];
